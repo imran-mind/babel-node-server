@@ -1,0 +1,1 @@
+{"version":3,"sources":["../server/server.js"],"names":["console","log"],"mappings":";;AAAA;;;;;;AACA,oBAAK,qBAAL;AACAA,QAAQC,GAAR,CAAY,oCAAZ","file":"server.js","sourcesContent":["import test from './test';\ntest(\"still Hello Node js\");\nconsole.log(\"hello Production is running on    \");"]}

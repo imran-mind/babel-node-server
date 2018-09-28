@@ -1,0 +1,1 @@
+{"version":3,"sources":["../server/test.js"],"names":["test","msg","console","log"],"mappings":";;;;;AAAA,IAAMA,OAAO,SAAPA,IAAO,CAASC,GAAT,EAAa;AACtBC,YAAQC,GAAR,CAAYF,GAAZ;AACH,CAFD;AAGA;kBACeD,I","file":"test.js","sourcesContent":["const test = function(msg){\n    console.log(msg);\n}\n// module.exports = test;  \nexport default test;"]}
