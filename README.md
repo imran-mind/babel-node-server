@@ -15,4 +15,4 @@ npm start
 
 # Run Node server production mode
 
-npm run production
+npm run production# ims-server
