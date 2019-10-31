@@ -1,0 +1,55 @@
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T06:48:15.871Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m197.396 ms - 982\u001b[0m\n","timestamp":"2019-05-26T06:48:28.089Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m17.390 ms - 282\u001b[0m\n","timestamp":"2019-05-26T06:48:38.522Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m11.541 ms - 282\u001b[0m\n","timestamp":"2019-05-26T06:49:05.857Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m18.918 ms - -\u001b[0m\n","timestamp":"2019-05-26T06:49:14.039Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m14.958 ms - -\u001b[0m\n","timestamp":"2019-05-26T06:49:15.132Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.327 ms - -\u001b[0m\n","timestamp":"2019-05-26T06:49:28.256Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m5.196 ms - 282\u001b[0m\n","timestamp":"2019-05-26T06:49:33.023Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m7707.064 ms - 959\u001b[0m\n","timestamp":"2019-05-26T06:50:28.680Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T06:51:04.423Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m7368.262 ms - 959\u001b[0m\n","timestamp":"2019-05-26T06:51:19.891Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T06:52:19.544Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m4873.325 ms - 959\u001b[0m\n","timestamp":"2019-05-26T06:52:29.012Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m5566.056 ms - 959\u001b[0m\n","timestamp":"2019-05-26T06:52:47.543Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m3856.709 ms - 959\u001b[0m\n","timestamp":"2019-05-26T06:53:21.832Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m51.082 ms - 5367\u001b[0m\n","timestamp":"2019-05-26T06:53:21.947Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5cea372c85d425197a359580 \u001b[32m200 \u001b[0m6.690 ms - 933\u001b[0m\n","timestamp":"2019-05-26T06:53:27.858Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m24.613 ms - -\u001b[0m\n","timestamp":"2019-05-26T06:53:38.613Z"}
+{"level":"info","message":"\u001b[0mDELETE /api/v1/students/5cea37dd7421f81b3c8951e5 \u001b[32m200 \u001b[0m3.482 ms - 63\u001b[0m\n","timestamp":"2019-05-26T06:53:53.032Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m25.348 ms - 4490\u001b[0m\n","timestamp":"2019-05-26T06:53:53.075Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T06:54:12.654Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T07:02:32.638Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T07:02:58.803Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m68.790 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:34:57.105Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5ce9c5e39d7bc17c09a44b60 \u001b[32m200 \u001b[0m15.744 ms - 927\u001b[0m\n","timestamp":"2019-05-26T08:34:57.127Z"}
+{"level":"info","message":"\u001b[0mPUT /api/v1/students/5ce9c5e39d7bc17c09a44b60 \u001b[32m200 \u001b[0m38.791 ms - 24\u001b[0m\n","timestamp":"2019-05-26T08:35:04.342Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5ce9c5e39d7bc17c09a44b60 \u001b[32m200 \u001b[0m4.838 ms - 927\u001b[0m\n","timestamp":"2019-05-26T08:35:04.368Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m41.222 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:35:04.510Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-26T08:36:10.140Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m44.582 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:38:29.281Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5cea37b97421f81b3c8951e4 \u001b[32m200 \u001b[0m19.389 ms - 933\u001b[0m\n","timestamp":"2019-05-26T08:38:29.324Z"}
+{"level":"info","message":"\u001b[0mPUT /api/v1/students/5cea37b97421f81b3c8951e4 \u001b[32m200 \u001b[0m4879.359 ms - 50\u001b[0m\n","timestamp":"2019-05-26T08:38:42.115Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5cea37b97421f81b3c8951e4 \u001b[32m200 \u001b[0m8.015 ms - 933\u001b[0m\n","timestamp":"2019-05-26T08:38:42.148Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m45.684 ms - 4490\u001b[0m\n","timestamp":"2019-05-26T08:38:42.283Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5cea37b97421f81b3c8951e4 \u001b[36m304 \u001b[0m12.183 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:38:46.205Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m19.395 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:38:51.047Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5ce9c5e39d7bc17c09a44b60 \u001b[36m304 \u001b[0m6.223 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:39:53.455Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m17.693 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:39:55.817Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5ce9c5e39d7bc17c09a44b60 \u001b[36m304 \u001b[0m6.267 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:39:57.758Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m16.101 ms - -\u001b[0m\n","timestamp":"2019-05-26T08:39:59.944Z"}
+{"level":"info","message":"\u001b[0mDELETE /api/v1/students/5cea37b97421f81b3c8951e4 \u001b[32m200 \u001b[0m4.512 ms - 63\u001b[0m\n","timestamp":"2019-05-26T08:40:10.169Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m21.027 ms - 3613\u001b[0m\n","timestamp":"2019-05-26T08:40:10.204Z"}
+{"level":"info","message":"\u001b[0mDELETE /api/v1/students/5cea37a87421f81b3c8951e3 \u001b[32m200 \u001b[0m2.126 ms - 63\u001b[0m\n","timestamp":"2019-05-26T08:40:17.730Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m21.757 ms - 2736\u001b[0m\n","timestamp":"2019-05-26T08:40:17.778Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5cea37609d161c1b05276138 \u001b[32m200 \u001b[0m3.966 ms - 933\u001b[0m\n","timestamp":"2019-05-26T09:14:29.568Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m11.367 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:14:33.516Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students/5ce9c5e39d7bc17c09a44b60 \u001b[36m304 \u001b[0m5.485 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:14:35.102Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m22.487 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:14:37.213Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.716 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:14:43.415Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m23.699 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:14:49.032Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[36m304 \u001b[0m10.364 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:25:14.159Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m24.919 ms - 2736\u001b[0m\n","timestamp":"2019-05-26T09:25:16.791Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m4.099 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:25:19.014Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m4.453 ms - -\u001b[0m\n","timestamp":"2019-05-26T09:26:37.736Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m3.768 ms - 282\u001b[0m\n","timestamp":"2019-05-26T09:31:07.522Z"}

@@ -1,0 +1,89 @@
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.618 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:12:02.842Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.604 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:12:23.809Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.916 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:12:30.394Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.071 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:15:06.303Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.307 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:16:14.294Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.380 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:16:36.847Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.229 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:16:58.907Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.397 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:17:01.976Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.339 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:19:07.555Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.896 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:19:27.477Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.676 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:19:27.631Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.384 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:19:30.749Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.549 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:20:22.814Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m4.756 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:21:23.654Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m4.247 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:26:35.859Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m3.496 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:26:41.819Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.310 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:27:26.558Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m1.978 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:27:36.908Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.327 ms - -\u001b[0m\n","timestamp":"2019-05-22T17:28:09.679Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.167 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:28:12.216Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.854 ms - 282\u001b[0m\n","timestamp":"2019-05-22T17:37:10.767Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:43:20.126Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:49:18.628Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:49:33.233Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:50:00.276Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:50:07.200Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:50:18.652Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:50:44.648Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:51:47.391Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:52:12.838Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:52:41.494Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m865.273 ms - 18123\u001b[0m\n","timestamp":"2019-05-22T17:52:43.234Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:52:56.568Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:53:03.267Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"2019-05-22T17:53:16.566Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:55:12.662Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:55:38.377Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/students \u001b[32m200 \u001b[0m161.311 ms - 18123\u001b[0m\n","timestamp":"2019-05-22T17:55:42.790Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:56:46.127Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:57:49.853Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T17:58:25.162Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:01:43.277Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:10:13.047Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m103.467 ms - 282\u001b[0m\n","timestamp":"2019-05-22T18:10:18.319Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[31m500 \u001b[0m29.651 ms - 2091\u001b[0m\n","timestamp":"2019-05-22T18:10:40.510Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:11:09.353Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m125.587 ms - 282\u001b[0m\n","timestamp":"2019-05-22T18:11:11.378Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[31m500 \u001b[0m53.882 ms - 2093\u001b[0m\n","timestamp":"2019-05-22T18:11:28.231Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:12:31.550Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[31m500 \u001b[0m53.313 ms - 2093\u001b[0m\n","timestamp":"2019-05-22T18:12:34.604Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:12:47.616Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"2019-05-22T18:14:56.137Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:15:01.705Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:15:16.790Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:15:23.031Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:15:49.620Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:16:30.250Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"2019-05-22T18:18:35.298Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[0m- \u001b[0m- ms - -\u001b[0m\n","timestamp":"2019-05-22T18:20:35.308Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:24:25.269Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:24:33.113Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:24:58.440Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m196.239 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:25:03.824Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:30:07.678Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m72.601 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:30:14.981Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m11.648 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:30:17.511Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m18.203 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:30:19.120Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:43:36.844Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:45:06.392Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m200 \u001b[0m34.999 ms - 37\u001b[0m\n","timestamp":"2019-05-22T18:45:18.321Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:46:57.063Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m99.112 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:47:03.587Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:47:40.837Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:47:49.608Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m60.499 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:48:01.891Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:48:57.139Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m108.968 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:49:08.007Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:49:57.727Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:50:04.730Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m97.974 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:50:06.476Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m39.878 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:50:15.891Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:50:30.430Z"}
+{"level":"info","message":"\u001b[0mPOST /api/v1/students \u001b[32m201 \u001b[0m60.469 ms - 313\u001b[0m\n","timestamp":"2019-05-22T18:50:39.172Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:54:04.985Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:54:14.584Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:58:41.913Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:58:51.485Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T18:58:55.079Z"}
+{"level":"info","message":"Connected to mongo!!!","timestamp":"2019-05-22T19:00:54.791Z"}

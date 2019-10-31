@@ -1,0 +1,15 @@
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m36.182 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:36:10.510Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m1.919 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:36:19.771Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m4.928 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:39:40.919Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m4.333 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:42:15.845Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m3.334 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:42:44.239Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.461 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:44:45.865Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m3.666 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:44:52.297Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.459 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:47:45.497Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.467 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:48:37.341Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m2.876 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:49:26.312Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m5.928 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:53:46.525Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m2.157 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:54:05.325Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.470 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:54:51.414Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[32m200 \u001b[0m3.062 ms - 282\u001b[0m\n","timestamp":"2019-05-21T17:56:04.387Z"}
+{"level":"info","message":"\u001b[0mGET /api/v1/courses \u001b[36m304 \u001b[0m3.034 ms - -\u001b[0m\n","timestamp":"2019-05-21T17:56:41.025Z"}
